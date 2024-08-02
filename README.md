@@ -29,8 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sp30-coder&show_icons=true&locale=en" alt="SP30-Coder" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sp-coder30&label=Profile%20views&color=0e75b6&style=flat" alt="SP30-Coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SP30-Coder" alt="sp-coder30" /></a> </p>
 
 
